@@ -1,2 +1,2 @@
-# css_grid
-Learn CSS Grid
+# CSS Grid
+Попробую освоить css grid по видосам на ютубе)
